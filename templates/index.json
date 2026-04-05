@@ -70,7 +70,7 @@
             "label": "Shop all",
             "link": "shopify://collections/all",
             "open_in_new_tab": false,
-            "style_class": "button-primary",
+            "style_class": "button",
             "width": "fit-content",
             "custom_width": 100,
             "width_mobile": "fit-content",
