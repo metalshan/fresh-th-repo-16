@@ -58,7 +58,7 @@
               "type": "text",
               "name": "Heading",
               "settings": {
-                "text": "<h2>Subscribe to email</h2>",
+                "text": "<h2>Join our mailing list</h2>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
