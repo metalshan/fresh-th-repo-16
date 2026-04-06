@@ -41,7 +41,7 @@
         "text_anatta": {
           "type": "text",
           "settings": {
-            "text": "<p>I love programming</p>",
+            "text": "<p>I love AI</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
